@@ -10,6 +10,6 @@
 * BasketShop - Stworzenie prosteko kosztyka sklepowego. Wyświelanie dostępnych towarów w sklepie wraz z ilościami i cenami. 
   Możliwość dodania towaru do kosza, wyświetlenie aktulanej wartości koszyka i ściągnięcie towaru z półki. Ilości towarów dodawane i odejmowane w tablicy
   za pomocą pętli for.
-* CalendarInfo - Rzut kostką i wyświatlanie komunikatów za pomocą instrukcji swtich case. Wyświelanie odpowiednik komunikatów za pomocą warunków if else
+* CalendarInfo - Rzut kostką i wyświatlanie komunikatów za pomocą instrukcji swtich case. Wyświelanie odpowiednich komunikatów za pomocą warunków if else
 * Pocket - Model skarbonki, gdzie chcemy uzbierać zadeklarowaną ilość pieniędzy. Poprzez mtodę Math.random() wrzucana losowa ilość pieniędzy do skarbonki 
   ale z puli dostępnych nominałów. Wykorzystanie pętli for.
