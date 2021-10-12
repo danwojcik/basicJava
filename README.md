@@ -13,4 +13,3 @@
 * CalendarInfo - Rzut kostką i wyświatlanie komunikatów za pomocą instrukcji swtich case. Wyświelanie odpowiednik komunikatów za pomocą warunków if else
 * Pocket - Model skarbonki, gdzie chcemy uzbierać zadeklarowaną ilość pieniędzy. Poprzez mtodę Math.random() wrzucana losowa ilość pieniędzy do skarbonki 
   ale z puli dostępnych nominałów. Wykorzystanie pętli for.
-  
